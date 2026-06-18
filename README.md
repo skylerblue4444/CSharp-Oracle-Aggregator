@@ -1,0 +1,1 @@
+# CSharp-Oracle-Aggregator\n\n## Overview\nEnterprise-grade oracle aggregator implementation in CSharp.\n\n## Quick Start (1-Click Build)\n\n```bash\ngit clone https://github.com/skylerblue4444/CSharp-Oracle-Aggregator.git\ncd CSharp-Oracle-Aggregator\n# Build instructions depend on the language\n```\n
